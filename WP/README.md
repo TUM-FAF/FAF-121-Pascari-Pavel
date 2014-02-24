@@ -1,4 +1,5 @@
-Laboratories Repository
+# Window Programming Laboratories Repository
+
 
 ## Personal Information
 
@@ -6,9 +7,13 @@ Laboratories Repository
 
 **Group:** FAF-121
 
-**GitHub nickname:** line2sun
+**Year:** 2014
 
-## Contained courses
+## Contained Laboratory Works
 
-* WP
-* IDE
+
+_Red Pill_
+
+1. [Lab#1]()
+*  Lab#2
+*  Lab#3
