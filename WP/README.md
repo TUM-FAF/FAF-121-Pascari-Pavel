@@ -10,7 +10,7 @@
 **Year:** 2014
 
 ## Programming Style Guide
-Check it [here](WP/PSG.md).
+Check it [here](PSG.md).
 
 ## Contained Laboratory Works
 
