@@ -10,5 +10,5 @@ Laboratories Repository
 
 ## Contained courses
 
-* WP
-* IDE
+* [WP](/WP)
+* [IDE](/IDE)
