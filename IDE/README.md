@@ -1,4 +1,14 @@
-Laboratories Repository
+## IDE Laboratories Repository
+
+Integrated Developement Environements
+
+## Laboratories Tasks:
+
+[Lab#1]{}
+[Lab#2]{}
+[Lab#3]{}
+
+
 
 ## Personal Information
 
@@ -8,7 +18,6 @@ Laboratories Repository
 
 **GitHub nickname:** line2sun
 
-## Contained courses
 
-* WP
-* IDE
+
+
