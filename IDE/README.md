@@ -4,9 +4,9 @@ Integrated Developement Environements
 
 ## Laboratories Tasks:
 
-[Lab#1]{}
-[Lab#2]{}
-[Lab#3]{}
+* [Lab#1](/)
+* [Lab#2](/)
+* [Lab#3](/)
 
 
 
